@@ -11,6 +11,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 - Easy to integrate with Backend
 - Fully Responsive
+- Simple to use
 
 
 ## Screenshots
